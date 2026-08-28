@@ -1,0 +1,9 @@
+1. set  INCLUDE
+
+2. set LIB
+
+3. cd /d "D:\23cs162>"
+
+4. Cl lab6.c msmpi.lib
+
+5. mpiexec -n 2 lab6.exe
