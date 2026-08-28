@@ -1,0 +1,2 @@
+1)gcc -fopenmp lab6.c -I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include" -L"C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64" -lmsmpi -o lab6.exe
+2)mpiexec -n 4 .\lab6.exe
