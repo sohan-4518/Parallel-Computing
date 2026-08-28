@@ -1,0 +1,2 @@
+1)gcc -fopenmp prog5.c -I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include" -L"C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64" -lmsmpi -o prog5.exe
+2)mpiexec -n 4 .\prog5.exe
