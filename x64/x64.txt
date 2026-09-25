@@ -1,4 +1,4 @@
-1. set  INCLUDE
+1. set INCLUDE
 
 2. set LIB
 
